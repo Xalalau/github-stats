@@ -134,34 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #DA5B0B; 
-  width: 36.071%;
+  width: 36.078%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 28.309%;
+  width: 28.315%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 6.356%;
+  width: 6.357%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 5.540%;
+  width: 5.541%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.237%;
+  width: 5.238%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.665%;
+  width: 4.646%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 3.305%;
+  width: 3.306%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 3.280%;
+  width: 3.281%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 2.660%;
+  width: 2.661%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 1.589%;
+  width: 1.590%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.688%;
@@ -251,7 +251,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">36.07%</span>
+  <span class="percent">36.08%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -267,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">28.31%</span>
+  <span class="percent">28.32%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -331,7 +331,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">4.67%</span>
+  <span class="percent">4.65%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
