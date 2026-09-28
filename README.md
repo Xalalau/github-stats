@@ -1,3 +1,7 @@
+Repositórios ignorados em EXCLUDE_REPOS
+
+tiltedphoques/TiltedEvolution,nanos-world/sandbox,Inwave/easimonitor,Inwave/tratamentodedados
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
@@ -5,11 +9,11 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 -->
 
 <div align="center">
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/xalalau/github-stats">
+<img src="https://github.com/xalalau/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/xalalau/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/xalalau/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/xalalau/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
 
