@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 44.777%;
+  width: 44.760%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 13.030%;
+  width: 13.063%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 8.394%;
+  width: 8.391%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 8.189%;
+  width: 8.186%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 7.840%;
+  width: 7.837%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 5.189%;
+  width: 5.187%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 4.773%;
+  width: 4.771%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 2.486%;
+  width: 2.485%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 1.406%;
@@ -164,7 +164,7 @@ div.ellipsis {
   width: 1.042%;
 " class="progress-item"></span><span style="
   background-color: #1d365d; 
-  width: 0.697%;
+  width: 0.696%;
 " class="progress-item"></span><span style="
   background-color: #A97BFF; 
   width: 0.646%;
@@ -236,7 +236,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">44.78%</span>
+  <span class="percent">44.76%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -252,7 +252,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">13.03%</span>
+  <span class="percent">13.06%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -348,7 +348,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">2.49%</span>
+  <span class="percent">2.48%</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
